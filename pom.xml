@@ -4,7 +4,7 @@
 
     <groupId>za.co.entelect.forums.java</groupId>
     <artifactId>maven-exercises</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.8</version>
     <packaging>jar</packaging>
 
     <name>maven-exercises</name>
